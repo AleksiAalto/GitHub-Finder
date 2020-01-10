@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/GitHub-Finder/static/css/main.aca11af2.chunk.css",
+    "main.js": "/GitHub-Finder/static/js/main.fadad857.chunk.js",
+    "main.js.map": "/GitHub-Finder/static/js/main.fadad857.chunk.js.map",
+    "runtime-main.js": "/GitHub-Finder/static/js/runtime-main.3c3faf37.js",
+    "runtime-main.js.map": "/GitHub-Finder/static/js/runtime-main.3c3faf37.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/GitHub-Finder/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4eb4f61e.chunk.js": "/GitHub-Finder/static/js/2.4eb4f61e.chunk.js",
+    "static/js/2.4eb4f61e.chunk.js.map": "/GitHub-Finder/static/js/2.4eb4f61e.chunk.js.map",
+    "index.html": "/GitHub-Finder/index.html",
+    "precache-manifest.136f92955d8a45631dca6b3754cb4750.js": "/GitHub-Finder/precache-manifest.136f92955d8a45631dca6b3754cb4750.js",
+    "service-worker.js": "/GitHub-Finder/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/GitHub-Finder/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.aca11af2.chunk.css.map": "/GitHub-Finder/static/css/main.aca11af2.chunk.css.map",
+    "static/js/2.4eb4f61e.chunk.js.LICENSE": "/GitHub-Finder/static/js/2.4eb4f61e.chunk.js.LICENSE",
+    "static/media/index.css": "/GitHub-Finder/static/media/kiikarit.4dbead1e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c3faf37.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4eb4f61e.chunk.js",
+    "static/css/main.aca11af2.chunk.css",
+    "static/js/main.fadad857.chunk.js"
+  ]
+}
