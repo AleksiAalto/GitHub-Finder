@@ -1,0 +1,91 @@
+.Container{
+  color: white;
+}
+.ba {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.b--black-10 {
+  border-color: rgba(0, 0, 0, .1);
+}
+
+.br-100 {
+  border-radius: 100%;
+}
+
+.fw2 {
+  font-weight: 200;
+}
+
+.fw6 {
+  font-weight: 600;
+}
+
+.h3 {
+  height: 4rem;
+}
+
+.tracked {
+  letter-spacing: .1em;
+}
+
+.w3 {
+  width: 4rem;
+}
+
+.mid-gray {
+  color: #555;
+}
+
+.gray {
+  color: #777;
+}
+
+.pa1 {
+  padding: .25rem;
+}
+
+.pv4 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.tc {
+  text-align: center;
+}
+
+.ttu {
+  text-transform: uppercase;
+}
+
+.f5 {
+  font-size: 1rem;
+}
+
+.f6 {
+  font-size: .875rem;
+}
+
+@media screen and (min-width: 30em) {
+  .pv5-ns {
+      padding-top: 4rem;
+      padding-bottom: 4rem;
+  }
+
+  .f4-ns {
+      font-size: 1.25rem;
+  }
+}
+form {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: 0.1em;
+}
+form div {
+  align-self: center;
+}
+header a {
+  letter-spacing: 0.2em;
+}

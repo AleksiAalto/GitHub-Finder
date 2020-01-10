@@ -1,0 +1,63 @@
+.Container{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 3px;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+h2 {
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+.header button{
+    border: solid rgba(255, 0, 0, 0);
+    align-self: center;
+    color: white;
+    letter-spacing: 0.2em;
+}
+.pic img{
+    border-radius: 50%;
+    width: 30vh;
+}
+
+.Context {
+    display: flex;
+    flex-direction: column;
+}
+.Kortti{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    text-align: center;
+}
+.Otsikko{
+    letter-spacing: 0.3em;
+    font-weight: 700;
+    transition: 1s ease;
+}
+.Otsikko:hover{
+    transform: scale(1.05);
+}
+.Kortti a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+
+}
+.repos ul{
+    letter-spacing: 0.2em;
+    list-style: none;
+    transition: 1s ease;
+}
+.repos li{
+    text-decoration: none;
+    transition: 1s ease;
+}
+.repos li:hover{
+    transform: scale(1.01);
+}
+.repos a {
+    text-decoration: none;
+}
